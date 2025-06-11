@@ -1,6 +1,6 @@
 Project Definition Document
 • Project Name:
-MicroGoal
+Micro Goal Tracker
 
 • Project Summary:
 MicroGoal is a lightweight Android productivity application that helps users set and track small, daily personal goals—also known as micro-goals. These goals can include simple habits like "drink 2L of water," "stretch for 5 minutes," or "write 100 words."
