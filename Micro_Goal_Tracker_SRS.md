@@ -119,5 +119,5 @@ Micro Goal Tracker is a standalone mobile application aimed at enhancing users' 
 
 - Firebase SDK (Authentication, Firestore)
 - Android AlarmManager & Notification APIs
-- ![microgoal_usecase_diagram](https://github.com/user-attachments/assets/598e2c77-2384-4820-985b-732c473f80a8)
+![microgoal_usecase_diagram](https://github.com/user-attachments/assets/d2ecd976-c774-4bf3-9d11-c29cfe0104ca)
 
