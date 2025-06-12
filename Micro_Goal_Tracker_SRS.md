@@ -84,7 +84,7 @@ Micro Goal Tracker is a standalone mobile application aimed at enhancing users' 
 ---
 
 ### **6. Use Case Diagram**
-*A UML diagram will visually represent all four use cases and their interaction with the User actor.*
+![microgoal_usecase_diagram](https://github.com/user-attachments/assets/d2ecd976-c774-4bf3-9d11-c29cfe0104ca)
 
 ---
 
@@ -119,5 +119,4 @@ Micro Goal Tracker is a standalone mobile application aimed at enhancing users' 
 
 - Firebase SDK (Authentication, Firestore)
 - Android AlarmManager & Notification APIs
-![microgoal_usecase_diagram](https://github.com/user-attachments/assets/d2ecd976-c774-4bf3-9d11-c29cfe0104ca)
 
