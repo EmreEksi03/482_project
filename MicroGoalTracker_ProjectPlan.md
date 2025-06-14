@@ -136,9 +136,7 @@ Only internal team members can submit a **Change Request (CR)**.
 
 Author: Mehmet Olcaytuğ Erdoğan
 
-md
-Copy
-Edit
+
 | Task / Section              | Contribution                                                                                   | Author                     | Status    |
 |----------------------------|-----------------------------------------------------------------------------------------------|----------------------------|-----------|
 | Project Scope               | Defined in-scope and out-of-scope features for the Android app                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
@@ -150,4 +148,3 @@ Edit
 | Communication Plan          | Defined team communication methods and tools                                                  | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Change Management Plan      | Established change request and version control policy                                         | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Budget Plan                 | Estimated cost using only free tools                                                          | Mehmet Olcaytuğ Erdoğan    | Complete  |
-| Acceptance Tests & Criteria| Specified criteria for successful delivery of features
