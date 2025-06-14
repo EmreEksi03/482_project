@@ -32,6 +32,9 @@ The Micro Goal Tracker follows a **3-tier layered architecture** with **client-s
 - **Cloud Functions**: Server-side logic for data processing
 - **Firebase Cloud Messaging (FCM)**: Push notification delivery
 
+![microgoal_architecture](https://github.com/user-attachments/assets/055f13c8-02f7-4b64-8e26-3230476bee7d)
+
+
 ## How Architecture Facilitates Use Case Realization
 
 ### **Use Case 1: User Registration**
