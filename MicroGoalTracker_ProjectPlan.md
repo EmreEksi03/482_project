@@ -132,3 +132,22 @@ Only internal team members can submit a **Change Request (CR)**.
 | Notification System    | App sends timely daily notifications for active goals.                             |
 | Progress History       | User can view previous completions and active streaks.                             |
 | Offline Handling       | App functions in read-only mode when offline; syncs on reconnection.               |
+
+
+Author: Mehmet Olcaytuğ Erdoğan
+
+md
+Copy
+Edit
+| Task / Section              | Contribution                                                                                   | Author                     | Status    |
+|----------------------------|-----------------------------------------------------------------------------------------------|----------------------------|-----------|
+| Project Scope               | Defined in-scope and out-of-scope features for the Android app                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Project Organization        | Defined team roles                                                       | Mehmet Olcaytuğ Erdoğan    | Partial   |
+| Objectives                  | Listed app goals like visual motivation, real-time sync, and notifications                    | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Key Phases & Timeline       | Created phase-wise plan with start/end dates and deliverables                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Resource Planning           | Chose tech stack: Kotlin/Java, Firebase, Git, Figma                                           | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Risk Management             | Identified project risks and mitigation strategies                                            | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Communication Plan          | Defined team communication methods and tools                                                  | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Change Management Plan      | Established change request and version control policy                                         | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Budget Plan                 | Estimated cost using only free tools                                                          | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Acceptance Tests & Criteria| Specified criteria for successful delivery of features
