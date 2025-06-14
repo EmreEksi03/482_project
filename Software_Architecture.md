@@ -61,3 +61,18 @@ The Micro Goal Tracker follows a **3-tier layered architecture** with **client-s
 4. **Maintainability**: Clear separation of concerns makes code easier to understand and modify
 5. **Real-time Sync**: Firebase integration provides seamless data synchronization across devices
 6. **Performance**: Local caching and optimized database queries ensure smooth user experience
+
+
+## Document Task Matrix - Software Architecture Overview
+
+| Task/Section | Team Member | Contribution | Status |
+|--------------|-------------|--------------|---------|
+| High-Level Architecture Design | Mustafa Berke İmamoğlu | Designed 3-tier layered architecture approach | Complete |
+| Architecture Diagram Creation | Mustafa Berke İmamoğlu | Created visual architecture diagram with all components | Complete |
+| Presentation Layer Components | Mustafa Berke İmamoğlu | Defined UI components, ViewModels, and Activities | Complete |
+| Business Logic Layer Design | Mustafa Berke İmamoğlu | Specified repositories, use cases, and domain services | Complete |
+| Data Layer Architecture | Mustafa Berke İmamoğlu | Designed local storage and data access patterns | Complete |
+| Firebase Backend Integration | Mustafa Berke İmamoğlu | Defined backend services and integration points | Complete |
+| Use Case Architecture Mapping | Mustafa Berke İmamoğlu | Mapped each use case to architectural flow | Complete |
+| Architectural Benefits Analysis | Mustafa Berke İmamoğlu | Analyzed scalability, testability, and performance benefits | Complete |
+| Document Review & Formatting | Mustafa Berke İmamoğlu | Final review, formatting, and quality assurance | Complete |
