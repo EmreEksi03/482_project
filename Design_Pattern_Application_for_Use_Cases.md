@@ -54,7 +54,7 @@ This document maps at least one relevant software design pattern to each use cas
 
 ## Summary Table
 
-| Use Case                | Design Pattern           | Explanation (Short)                                                  | Justification (Short)                                               |
+| Use Case                | Design Pattern           | Explanation                                                           | Justification                                               |
 |-------------------------|--------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
 | User Registration       | Factory Method           | Abstracts creation of different account types                         | Easily extend registration methods                                  |
 | Add New Goal            | Builder Pattern          | Builds complex `Goal` objects step-by-step                            | Improves clarity and avoids constructor overload                    |
