@@ -89,3 +89,16 @@ Users can set and complete goals with minimal confusion (intuitive UX)
 Data is reliably stored and retrieved across sessions
 
 App functions smoothly and delivers timely reminders
+
+Author: Emre Ekşi
+
+| Task / Section           | Contribution                                                                 | Author         | Status   |
+|--------------------------|------------------------------------------------------------------------------|----------------|----------|
+| Project Summary          | Summarized purpose of the app and its benefits for users                     | Emre Ekşi      | Complete |
+| Objectives               | Defined goals like user habit building, consistency, and simplicity           | Emre Ekşi      | Complete |
+| Scope                    | Outlined features included/excluded in the initial version                   | Emre Ekşi      | Complete |
+| Target Audience          | Identified intended user groups and their needs                              | Emre Ekşi      | Complete |
+| Key Features             | Listed functional capabilities of the Android app                            | Emre Ekşi      | Complete |
+| Deliverables             | Described app prototype, documentation, and user guide                       | Emre Ekşi      | Complete |
+| Project Success Criteria | Defined metrics for successful delivery and user experience                  | Emre Ekşi      | Complete |
+| Use Case Diagram (SRS)   | Created diagram showing user interactions with system                        | Emre Ekşi      | Complete |
