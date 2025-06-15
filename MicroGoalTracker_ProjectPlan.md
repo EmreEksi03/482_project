@@ -36,7 +36,7 @@
 
 ## • Objectives
 
-- Deliver a stable and user-friendly Android app before **July 15, 2025**.
+- Deliver a stable and user-friendly Android app before **July 26, 2025**.
 - Ensure seamless goal creation and tracking with real-time data sync via Firebase.
 - Provide effective visual motivation tools (streaks, progress bars).
 - Implement timely and accurate reminder notifications.
