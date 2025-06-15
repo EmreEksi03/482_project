@@ -140,7 +140,7 @@ Author: Mehmet Olcaytuğ Erdoğan
 | Task / Section              | Contribution                                                                                   | Author                     | Status    |
 |----------------------------|-----------------------------------------------------------------------------------------------|----------------------------|-----------|
 | Project Scope               | Defined in-scope and out-of-scope features for the Android app                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
-| Project Organization        | Defined team roles                                                       | Mehmet Olcaytuğ Erdoğan    | Partial   |
+| Project Organization        | Defined team roles                                                       | Mehmet Olcaytuğ Erdoğan    | Complete   |
 | Objectives                  | Listed app goals like visual motivation, real-time sync, and notifications                    | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Key Phases & Timeline       | Created phase-wise plan with start/end dates and deliverables                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Resource Planning           | Chose tech stack: Kotlin/Java, Firebase, Git, Figma                                           | Mehmet Olcaytuğ Erdoğan    | Complete  |
