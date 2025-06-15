@@ -22,12 +22,12 @@
 
 ## • Project Organization - People (Roles and Responsibilities)
 
-| Role               | Responsibilities                                                       | Person |
-|--------------------|------------------------------------------------------------------------|--------|
-| Project Manager     | Planning, coordination, and project delivery oversight.               |
-| Android Developer   | Develops the application using Kotlin or Java, integrates Firebase.   |
-| UI/UX Designer      | Creates mobile-friendly and minimalistic UI/UX flows.                 |
-| QA Tester           | Tests application functionality, performance, and usability.          |
+| Role               | Responsibilities                                                       | Person                                       |
+|--------------------|------------------------------------------------------------------------|----------------------------------------------|
+| Project Manager     | Planning, coordination, and project delivery oversight.               |Emre Ekşi                                     |
+| Android Developer   | Develops the application using Kotlin or Java, integrates Firebase.   |Mehmet Olcaytuğ Erdoğan,Mustafa Berke İmamoğlu|
+| UI/UX Designer      | Creates mobile-friendly and minimalistic UI/UX flows.                 |Osman Kaymakçı                                |
+| QA Tester           | Tests application functionality, performance, and usability.          |Doğukan Yıldırım                              |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## • Objectives
 
-- Deliver a stable and user-friendly Android app before **June 15, 2025**.
+- Deliver a stable and user-friendly Android app before **July 15, 2025**.
 - Ensure seamless goal creation and tracking with real-time data sync via Firebase.
 - Provide effective visual motivation tools (streaks, progress bars).
 - Implement timely and accurate reminder notifications.
