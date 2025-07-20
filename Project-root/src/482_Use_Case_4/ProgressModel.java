@@ -16,17 +16,13 @@ public class ProgressModel {
         this.goalCompletions = new HashMap<>();
     }
     
-    /**
-     * Initialize model with goal and completion data
-     */
+    //Initialize model with goal and completion data
     public void setData(List<ProgressGoal> goals, Map<String, List<LocalDate>> completions) {
         this.goals = goals;
         this.goalCompletions = completions;
     }
     
-    /**
-     * Core business logic: Analyze progress and generate statistics
-     */
+    //Core business logic: Analyze progress and generate statistics
     public ProgressStatistics analyzeProgress() {
         ProgressStatistics stats = new ProgressStatistics();
         
@@ -56,9 +52,7 @@ public class ProgressModel {
         return stats;
     }
     
-    /**
-     * Calculate overall completion rate for the last 30 days
-     */
+    //Calculate overall completion rate for the last 30 days
     private double calculateOverallCompletionRate() {
         if (goals.isEmpty()) return 0.0;
         
@@ -76,9 +70,7 @@ public class ProgressModel {
             (double) actualCompletions / totalPossibleCompletions * 100 : 0.0;
     }
     
-    /**
-     * Find the longest consecutive completion streak across all goals
-     */
+    //Find the longest consecutive completion streak across all goals
     private int calculateLongestOverallStreak() {
         Set<LocalDate> allCompletionDates = new HashSet<>();
         for (List<LocalDate> completions : goalCompletions.values()) {
@@ -105,9 +97,7 @@ public class ProgressModel {
         return maxStreak;
     }
     
-    /**
-     * Generate progress analysis for each individual goal
-     */
+    //Generate progress analysis for each individual goal
     private List<GoalProgress> generateGoalProgressList() {
         List<GoalProgress> progressList = new ArrayList<>();
         
@@ -136,9 +126,7 @@ public class ProgressModel {
         return progressList;
     }
     
-    /**
-     * Calculate current active streak for a goal
-     */
+    //Calculate current active streak for a goal
     private int calculateCurrentStreak(List<LocalDate> completions) {
         if (completions.isEmpty()) return 0;
         
@@ -159,9 +147,7 @@ public class ProgressModel {
         return streak;
     }
     
-    /**
-     * Calculate longest streak ever achieved for a goal
-     */
+    //Calculate longest streak ever achieved for a goal
     private int calculateLongestStreak(List<LocalDate> completions) {
         if (completions.isEmpty()) return 0;
         
@@ -182,9 +168,7 @@ public class ProgressModel {
         return maxStreak;
     }
     
-    /**
-     * Calculate completion rate for a specific goal (last 30 days)
-     */
+    //Calculate completion rate for a specific goal (last 30 days)
     private double calculateGoalCompletionRate(List<LocalDate> completions) {
         LocalDate thirtyDaysAgo = LocalDate.now().minusDays(30);
         long recentCompletions = completions.stream()
@@ -194,9 +178,7 @@ public class ProgressModel {
         return (double) recentCompletions / 30 * 100;
     }
     
-    /**
-     * Generate daily completion count map for visualization
-     */
+    //Generate daily completion count map for visualization
     private Map<LocalDate, Integer> generateDailyCompletionsMap() {
         Map<LocalDate, Integer> dailyMap = new HashMap<>();
         
@@ -217,9 +199,7 @@ public class ProgressModel {
         return dailyMap;
     }
     
-    /**
-     * Validate if sufficient data exists for analysis
-     */
+    //Validate if sufficient data exists for analysis
     public boolean hasValidData() {
         return goals != null && !goals.isEmpty() && 
                goalCompletions != null && !goalCompletions.isEmpty();
