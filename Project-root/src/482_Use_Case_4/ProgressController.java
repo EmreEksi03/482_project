@@ -6,9 +6,7 @@ public class ProgressController {
     private ProgressModel model;
     private ProgressView view;
     
-    /**
-     * Constructor establishes MVC relationships
-     */
+    //Constructor establishes MVC relationships
     public ProgressController(ProgressModel model, ProgressView view) {
         this.model = model;
         this.view = view;
@@ -23,7 +21,7 @@ public class ProgressController {
         view.showLoading();
         
         try {
-            // Simulate data fetching (in real app, this would call repository)
+            // Simulate data fetching
             List<ProgressGoal> userGoals = fetchUserGoals(userId);
             Map<String, List<LocalDate>> completionData = fetchCompletionData(userId);
             
@@ -53,16 +51,16 @@ public class ProgressController {
         }
     }
     
-    /**
-     * Handle refresh user action
-     */
+    
+     //Handle refresh user action
+     
     public void handleRefreshRequest(String userId) {
         handleViewProgressRequest(userId); // Reload all data
     }
     
-    /**
-     * Handle goal selection for detailed view
-     */
+    
+     //Handle goal selection for detailed view
+     
     public void handleGoalSelection(String goalId) {
         try {
             // In real implementation, this would fetch specific goal details
@@ -73,14 +71,7 @@ public class ProgressController {
         }
     }
     
-    // ===============================
-    // DATA SIMULATION METHODS
-    // (In real app, these would be repository calls)
-    // ===============================
-    
-    /**
-     * Simulate fetching user goals from database
-     */
+    //Simulate fetching user goals from database
     private List<ProgressGoal> fetchUserGoals(String userId) {
         List<ProgressGoal> goals = new ArrayList<>();
         goals.add(new ProgressGoal("goal1", "Drink 2L Water", "Daily hydration"));
@@ -90,9 +81,7 @@ public class ProgressController {
         return goals;
     }
     
-    /**
-     * Simulate fetching completion data from database
-     */
+    //Simulate fetching completion data from database
     private Map<String, List<LocalDate>> fetchCompletionData(String userId) {
         Map<String, List<LocalDate>> completions = new HashMap<>();
         LocalDate today = LocalDate.now();
