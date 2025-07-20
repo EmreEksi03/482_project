@@ -1,8 +1,6 @@
 import java.time.LocalDate;
 
-/**
- * Progress data model
- */
+// Represents analyzed progress data for one specific goal
 public class GoalProgress {
     private String goalId;
     private String goalTitle;
