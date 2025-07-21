@@ -14,8 +14,8 @@
 | Quality Assurance | Performance, Error Handling, Testability Design | Mehmet Olcaytuğ Erdoğan | Complete |
 | Deployment Planning | Installation Design, Environment Configuration | Mehmet Olcaytuğ Erdoğan | Complete |
 | Project Management | Change Log, Future Work, Documentation | Mehmet Olcaytuğ Erdoğan | Complete |
-| **Use Case 1: User Registration** | Factory Pattern Implementation, Authentication Logic | Mehmet Olcaytuğ Erdoğan | Complete |
-| **Use Case 1: User Registration** | Factory Pattern Documentation & Code Comments | Mehmet Olcaytuğ Erdoğan | Complete |
+| Use Case 1: User Registration | Factory Pattern Implementation, Authentication Logic | Mehmet Olcaytuğ Erdoğan | Complete |
+| Use Case 1: User Registration | Factory Pattern Documentation & Code Comments | Mehmet Olcaytuğ Erdoğan | Complete |
 | **Use Case 1: User Registration** | Multiple User Types (Email, Gmail, Facebook) Implementation | Mehmet Olcaytuğ Erdoğan | Complete |
 | **Use Case 1: User Registration** | Acceptance Criteria Definition & Measurement | Mehmet Olcaytuğ Erdoğan | Pending |
 | **Use Case 1: User Registration** | Definition of Done & Test Scenarios | Mehmet Olcaytuğ Erdoğan | Pending |
