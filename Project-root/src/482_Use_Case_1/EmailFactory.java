@@ -1,4 +1,4 @@
-public abstract class EmailFactory extends UserFactory{
+public class EmailFactory extends UserFactory{
     @Override
     public User createUser(String email, String password) {
         System.out.println("Creating Email user: " + email);
