@@ -32,9 +32,9 @@ Micro Goal Tracker is a standalone mobile application aimed at enhancing users' 
 ### **4. Constraints**
 
 - Platform: Android (initial release)
-- Language: Java or Kotlin for Android app development
+- Language: Java for Android app development
 - Database: Firebase (Authentication, Firestore)
-- Deadline: July 26, 2025
+- Deadline: July 23, 2025
 
 ---
 
