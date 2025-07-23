@@ -273,9 +273,9 @@ The Add Goal screen includes:
 | Version | Date          | Feature                                              | Status      |
 | ------- | ------------- | ---------------------------------------------------- | ----------- |
 | v0.1.0  | June 29, 2025 | Add Goal (Builder Pattern, MVVM, Repository Pattern) | Implemented |
-| v0.1.1  | TBD           | User Registration (Factory Pattern + Firebase Auth)  | Planned     |
-| v0.1.2  | TBD           | Goal Completion (Observer Pattern + Streak Service)  | Planned     |
-| v0.1.3  | TBD           | View Progress (ProgressAnalyzer + MVVM architecture) | Planned     |
+| v0.1.1  | TBD           | User Registration (Factory Pattern + Firebase Auth)  | Implemented |
+| v0.1.2  | TBD           | Goal Completion (Observer Pattern + Streak Service)  | Implemented |
+| v0.1.3  | TBD           | View Progress (ProgressAnalyzer + MVVM architecture) | Implemented |
 
 ## 17. Future Work and Open Issues
 
