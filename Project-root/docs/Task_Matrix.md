@@ -20,6 +20,11 @@
 | **Use Case 3: Track Goal Completion** | Definition of Done & Test Case Documentation | Emre Ekşi | Complete |
 | **Use Case 4: View Progress History** | Acceptance Criteria & Numerical Measurements | Mustafa Berke İmamoğlu | Complete |
 | **Use Case 4: View Progress History** | Definition of Done & Demo Scenarios | Mustafa Berke İmamoğlu | Complete |
+| Use Case 1: Registration   | Selected Factory Method pattern to decouple user account creation logic                              | Mehmet Olcaytuğ Erdoğan   | Complete |
+| Use Case 2: Add New Goal   | Applied Builder pattern for flexible goal construction with optional fields                          | Mehmet Olcaytuğ Erdoğan   | Complete |
+| Use Case 3: Track Goal     | Applied Observer pattern to notify dependent components (UI, streaks) upon goal status change         | Mehmet Olcaytuğ Erdoğan   | Complete |
+| Use Case 4: View Progress  | Applied MVC pattern to separate data, UI, and user interactions for analytics and chart components    | Mehmet Olcaytuğ Erdoğan   | Complete |
+| Summary Table              | Compiled design pattern mappings with rationale and benefits per use case                            | Mehmet Olcaytuğ Erdoğan   | Complete |
 
 
 ## Implementation Phase
