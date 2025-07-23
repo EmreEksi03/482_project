@@ -94,13 +94,12 @@ The project implements several design patterns to ensure code quality and mainta
 
 ## Team
 
-| Role | Name | Responsibilities |
+| Role | Responsibilities | Name  |
 |------|------|-----------------|
-| **Project Manager** | Emre Ekşi | Planning, coordination, project delivery |
-| **Android Developer** | Mehmet Olcaytuğ Erdoğan | Core app development, Firebase integration |
-| **Android Developer** | Mustafa Berke İmamoğlu | UI implementation, architecture design |
-| **UI/UX Designer** | Osman Kaymakçı | Mobile-friendly UI/UX design |
-| **QA Tester** | Doğukan Yıldırım | Testing, quality assurance |
+| Project Manager     | Planning, coordination, and project delivery oversight.               |Emre Ekşi                                               |
+| Android Developer   | Develops the application using Kotlin or Java, integrates Firebase.   |Mehmet Olcaytuğ Erdoğan,Mustafa Berke İmamoğlu,Osman Kaymakçı,Doğukan Yıldırım,Emre Ekşi |
+| UI/UX Designer      | Creates mobile-friendly and minimalistic UI/UX flows.                 |Mehmet Olcaytuğ Erdoğan,Mustafa Berke İmamoğlu,Osman Kaymakçı,Doğukan Yıldırım,Emre Ekşi |
+| QA Tester           | Tests application functionality, performance, and usability.          |Emre Ekşi                                       |
 
 ## Documentation
 
