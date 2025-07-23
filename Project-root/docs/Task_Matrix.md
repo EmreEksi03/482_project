@@ -25,6 +25,16 @@
 | Use Case 3: Track Goal     | Applied Observer pattern to notify dependent components (UI, streaks) upon goal status change         | Mehmet Olcaytuğ Erdoğan   | Complete |
 | Use Case 4: View Progress  | Applied MVC pattern to separate data, UI, and user interactions for analytics and chart components    | Mehmet Olcaytuğ Erdoğan   | Complete |
 | Summary Table              | Compiled design pattern mappings with rationale and benefits per use case                            | Mehmet Olcaytuğ Erdoğan   | Complete |
+| Project Scope               | Defined in-scope and out-of-scope features for the Android app                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Project Organization        | Defined team roles                                                       | Mehmet Olcaytuğ Erdoğan    | Complete   |
+| Objectives                  | Listed app goals like visual motivation, real-time sync, and notifications                    | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Key Phases & Timeline       | Created phase-wise plan with start/end dates and deliverables                                | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Resource Planning           | Chose tech stack: Kotlin/Java, Firebase, Git, Figma                                           | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Risk Management             | Identified project risks and mitigation strategies                                            | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Communication Plan          | Defined team communication methods and tools                                                  | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Change Management Plan      | Established change request and version control policy                                         | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Budget Plan                 | Estimated cost using only free tools                                                          | Mehmet Olcaytuğ Erdoğan    | Complete  |
+
 
 
 ## Implementation Phase
