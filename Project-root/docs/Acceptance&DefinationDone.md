@@ -30,8 +30,6 @@
 
 # Use Case 2: Goal Creation and Sync via Builder Pattern
 
-## Test Report
-
 ### Acceptance Criteria and Definition of Done
 
 **Acceptance Criteria:**
