@@ -67,7 +67,7 @@
 
 ### 🔧 Required Tools & Resources:
 
-- **Programming Language:** Kotlin or Java (Android)
+- **Programming Language:** Java (Android)
 - **IDE:** Android Studio
 - **Database:** Firebase Firestore
 - **Authentication:** Firebase Auth
