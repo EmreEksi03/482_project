@@ -44,6 +44,15 @@
 | External Interface Reqs     | Listed Firebase, Android API integrations                                                   | Osman, Doğukan            | Complete  |
 | UI Descriptions              | Listed core app screens and interactions                                                    | Osman, Doğukan            | Complete  |
 | Software Interfaces          | Documented APIs and SDKs used                                                               | Osman, Doğukan            | Complete  |
+| Project Summary          | Summarized purpose of the app and its benefits for users                     | Emre Ekşi      | Complete |
+| Objectives               | Defined goals like user habit building, consistency, and simplicity           | Emre Ekşi      | Complete |
+| Scope                    | Outlined features included/excluded in the initial version                   | Emre Ekşi      | Complete |
+| Target Audience          | Identified intended user groups and their needs                              | Emre Ekşi      | Complete |
+| Key Features             | Listed functional capabilities of the Android app                            | Emre Ekşi      | Complete |
+| Deliverables             | Described app prototype, documentation, and user guide                       | Emre Ekşi      | Complete |
+| Project Success Criteria | Defined metrics for successful delivery and user experience                  | Emre Ekşi      | Complete |
+| Use Case Diagram (SRS)   | Created diagram showing user interactions with system                        | Emre Ekşi      | Complete |
+
 
 
 
