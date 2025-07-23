@@ -50,11 +50,11 @@
 
 | Phase                     | Start Date   | End Date     | Deliverables                                |
 |---------------------------|--------------|--------------|---------------------------------------------|
-| Requirements Gathering    | June 2, 2025| June 15, 2025| Software Requirements Specification Document |
-| UI Design & Wireframes    | June 15, 2025| July 26, 2025| App screens, navigation flow                 |
-| Development               | June 15, 2025| July 26, 2025 | Full-featured Android app                    |
-| Testing                   | June 15, 2025 | July 26, 2025| Test results, bug report                     |
-| Deployment & Evaluation   | June 15, 2025| July 26, 2025| APK build, Firebase config, documentation    |
+| Requirements Gathering    | June 2, 2025| June 15, 2025| Software Requirements Specification (SRS) Document |
+| PA1 – Use Case Definition + Architecture + Pattern Mapping    | June 10, 2025| June 20, 2025| Software Architecture Design Document Use Case & Pattern Mapping |
+| PA2 – Implementation of 1 Use Case with Design Pattern | June 20, 2025| July 1, 2025 | - Source Code of Selected Use Case - Software Design Document (PA2 version) - TASK_MATRIX.md |
+| PA3 – Implementation of Remaining 3 Use Cases + Testing | July 2, 2025 | July 23, 2025| - Source Code for Remaining Use Cases - Final Software Design Document - Test Report (.xlsx)  |
+| Final Delivery & Evaluation   | July 23, 2025| July 26, 2025| - Final GitHub Submission - APK Build - Project Demo & Documentation   |
 
 ### 📌 Delivery Dates:
 - **Alpha Demo:** July 26, 2025  
