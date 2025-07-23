@@ -34,6 +34,16 @@
 | Communication Plan          | Defined team communication methods and tools                                                  | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Change Management Plan      | Established change request and version control policy                                         | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Budget Plan                 | Estimated cost using only free tools                                                          | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| Product Perspective          | Described app focus, independence, and daily habit features                                 | Osman, Doğukan            | Complete  |
+| Product Functions            | Listed main functionalities: registration, tracking, notifications, etc.                    | Osman, Doğukan            | Complete  |
+| User Characteristics         | Defined target user demographics and expectations                                           | Osman, Doğukan            | Complete  |
+| Constraints                  | Defined platform, tech, and deadline limitations                                            | Osman, Doğukan            | Complete  |
+| System Features (Use Cases) | Detailed 4 main use cases (Register, Add Goal, Track Goal, View Progress)                   | Osman, Doğukan            | Complete  |
+| Use Case Diagram             | Visualized system actors and main interactions                                              | Emre Ekşi                 | Complete  |
+| Non-Functional Requirements | Specified usability, reliability, portability, performance                                  | Osman, Doğukan            | Complete  |
+| External Interface Reqs     | Listed Firebase, Android API integrations                                                   | Osman, Doğukan            | Complete  |
+| UI Descriptions              | Listed core app screens and interactions                                                    | Osman, Doğukan            | Complete  |
+| Software Interfaces          | Documented APIs and SDKs used                                                               | Osman, Doğukan            | Complete  |
 
 
 
