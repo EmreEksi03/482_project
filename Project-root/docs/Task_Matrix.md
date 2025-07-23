@@ -34,6 +34,15 @@
 | Communication Plan          | Defined team communication methods and tools                                                  | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Change Management Plan      | Established change request and version control policy                                         | Mehmet Olcaytuğ Erdoğan    | Complete  |
 | Budget Plan                 | Estimated cost using only free tools                                                          | Mehmet Olcaytuğ Erdoğan    | Complete  |
+| High-Level Architecture Design | Designed 3-tier layered architecture approach | Mustafa Berke İmamoğlu |  Complete |
+| Architecture Diagram Creation | Created visual architecture diagram with all components | Mustafa Berke İmamoğlu | Complete |
+| Presentation Layer Components |  Defined UI components, ViewModels, and Activities | Mustafa Berke İmamoğlu | Complete |
+| Business Logic Layer Design |  Specified repositories, use cases, and domain services | Mustafa Berke İmamoğlu | Complete |
+| Data Layer Architecture | Designed local storage and data access patterns | Mustafa Berke İmamoğlu | Complete |
+| Firebase Backend Integration |  Defined backend services and integration points | Mustafa Berke İmamoğlu | Complete |
+| Use Case Architecture Mapping |  Mapped each use case to architectural flow | Mustafa Berke İmamoğlu | Complete |
+| Architectural Benefits Analysis |  Analyzed scalability, testability, and performance benefits | Mustafa Berke İmamoğlu | Complete |
+| Document Review & Formatting |  Final review, formatting, and quality assurance | Mustafa Berke İmamoğlu | Complete |
 | Product Perspective          | Described app focus, independence, and daily habit features                                 | Osman, Doğukan            | Complete  |
 | Product Functions            | Listed main functionalities: registration, tracking, notifications, etc.                    | Osman, Doğukan            | Complete  |
 | User Characteristics         | Defined target user demographics and expectations                                           | Osman, Doğukan            | Complete  |
