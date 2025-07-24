@@ -64,7 +64,7 @@ public class ProgressController {
     public void handleGoalSelection(String goalId) {
         try {
             // In real implementation, this would fetch specific goal details
-            System.out.println("📋 Loading details for goal: " + goalId);
+            System.out.println("Loading details for goal: " + goalId);
             // Could trigger navigation to goal detail view
         } catch (Exception e) {
             view.showError("Failed to load goal details");
